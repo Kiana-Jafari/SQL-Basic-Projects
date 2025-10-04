@@ -48,7 +48,7 @@ avg_critic_score  | Average score of all the games ratings for year  | float
 ------------------------------------------------------------------------------------------------------------------------------------------
 */
 
-Explore the data in the table:
+-- Explore the data in the table:
 SELECT *
 FROM public.critics_avg_year_rating
 LIMIT 24;
